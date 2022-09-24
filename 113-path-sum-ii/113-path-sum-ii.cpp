@@ -17,6 +17,7 @@ public:
         if(root->left==NULL and root->right==NULL and targetSum- root->val==0) res.push_back(temp);
         solve(root->left,targetSum -root->val,temp,res);
         solve(root->right,targetSum - root->val,temp,res);
+        temp.pop_back();
     }
     
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
