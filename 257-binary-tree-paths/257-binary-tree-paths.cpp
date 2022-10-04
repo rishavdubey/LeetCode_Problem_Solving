@@ -12,27 +12,16 @@
 class Solution {
 public:
     void solve(TreeNode* &root,string str,vector<string>&res){
-        if(root==NULL) return;
-        if(root->left==NULL and root->right==NULL){
-            if(str.size()==0){
-                str+=to_string(root->val);
-            }else{
-                str+=("->" + to_string(root->val));
-            }
+        if(!root->left and !root->right){
             res.push_back(str);
-            return ;
+            return;
         }
-        if(str.size()==0){
-            str+=to_string(root->val);
-        }else{
-            str+=("->" + to_string(root->val));
-        }
-        solve(root->left,str,res);
-        solve(root->right,str,res);
+        if(root->left) solve(root->left,str + "->" + to_string(root->left->val),res);
+        if(root->right) solve(root->right,str+"->"+to_string(root->right->val),res);
     }
     vector<string> binaryTreePaths(TreeNode* root) {
         vector<string>res;
-        solve(root,"",res);
+        solve(root,to_string(root->val),res);
         return res;
     }
 };
