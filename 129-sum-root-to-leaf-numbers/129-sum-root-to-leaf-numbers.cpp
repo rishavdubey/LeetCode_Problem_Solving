@@ -11,22 +11,12 @@
  */
 class Solution {
 public:
-    void sumNum(TreeNode* &root,int sum,int &ans){
-        if(root==NULL){
-            return;
-        }
-        if(root->left==NULL and root->right==NULL){
-            sum=sum*10 + root->val;
-            ans+=sum;
-            return;
-        }
+    int sumNumbers(TreeNode* root,int sum=0) {
+        if(root==NULL) return 0;
+        if(root->left==NULL and root->right==NULL) return sum*10 + root->val;
         sum=sum*10 + root->val;
-        sumNum(root->left,sum,ans);
-        sumNum(root->right,sum,ans);
-    }
-    int sumNumbers(TreeNode* root) {
-        int ans=0;
-        sumNum(root,0,ans);
-        return ans;
+        int left=sumNumbers(root->left,sum);
+        int right=sumNumbers(root->right,sum);
+        return left+right;
     }
 };
