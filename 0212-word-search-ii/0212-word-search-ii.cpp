@@ -45,7 +45,7 @@ public:
         
     }
     void dfs(vector<vector<char>>&grid,int i,int j,Node* node,string temp,set<string>&ans){
-        if(i<0 or j<0 or i>=grid.size() or j>=grid[0].size() or grid[i][j]=='.') return;
+        if(i<0 or j<0 or i>=grid.size() or j>=grid[0].size() or grid[i][j]=='.' or node->containKey(grid[i][j])==NULL) return;
         
         if(node->containKey(grid[i][j])!=NULL){
             temp+=grid[i][j];
