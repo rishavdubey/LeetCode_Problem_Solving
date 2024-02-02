@@ -1,28 +1,43 @@
 class Solution {
-private:
-    void makeZero(vector<vector<int>>& matrix,int i,int j){
-        for(int r=0;r<matrix.size();r++){
-            matrix[r][j]=0;
-        }
-        for(int c=0;c<matrix[0].size();c++){
-            matrix[i][c]=0;
-        }
-    }
+
 public:
-    void setZeroes(vector<vector<int>>& matrix) {
-        vector<pair<int,int>>v;
+    void setZeroes(vector<vector<int>>& matrix) {        
+        bool firstRow=false,firstColoum=false;
         
         for(int i=0;i<matrix.size();i++){
             for(int j=0;j<matrix[0].size();j++){
                 if(matrix[i][j]==0){
-                    v.push_back({i,j});
+                    if(i==0){
+                        firstRow=true;
+                    }
+                    if(j==0){
+                        firstColoum=true;
+                    }
+                    matrix[0][j]=matrix[i][0]=0;
+                    
                 }
+                
+                
             }
         }
         
-        for(auto it: v){
-            makeZero(matrix,it.first,it.second);
+        for(int i=1;i<matrix.size();i++){
+            for(int j=1;j<matrix[0].size();j++){
+                if(matrix[0][j]==0 || matrix[i][0]==0){
+                    matrix[i][j]=0;
+                }
+            }
         }
+            
+        
+        if(firstRow){
+           for(int j = 0; j < matrix[0].size(); j++) matrix[0][j] = 0;
+        }
+        if(firstColoum){
+            for(int i = 0; i < matrix.size(); i++) matrix[i][0] = 0;
+        }
+          
+        
     
     }
 };
