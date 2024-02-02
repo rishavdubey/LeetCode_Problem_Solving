@@ -1,20 +1,22 @@
 class Solution {
 public:
     vector<vector<int>> generate(int numRows) {
+        vector<vector<int>>ans;
         
-        vector<vector<int>>res;
-        res.push_back({1});
-        int i=1;
-        while(i<numRows){
-            vector<int>temp;
-            temp.push_back(1);
-            for(int j=1;j<res[i-1].size();j++){
-                temp.push_back(res[i-1][j-1] + res[i-1][j]);
-            }           
-            temp.push_back(1);
-            res.push_back(temp);
-            i++;
+        vector<int>res;
+        
+        for(int i=0;i<numRows;i++){
+            res.resize(i+1);
+            res[0]=res[i]=1;
+            int temp=res[0];
+            for(int j=1;j<i;j++){
+                int c=res[j];
+                res[j]=temp+res[j];
+                temp=c;
+            }
+            ans.push_back(res);
         }
-        return res;        
+        return ans;
+        
     }
 };
