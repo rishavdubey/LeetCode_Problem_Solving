@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/1524-string-matching-in-an-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/2465-shifting-letters-ii) |
@@ -46,4 +47,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
