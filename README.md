@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0049-group-anagrams) |
+| [0268-missing-number](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0268-missing-number) |
 | [1524-string-matching-in-an-array](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/1524-string-matching-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -42,12 +43,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0371-sum-of-two-integers) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -72,13 +75,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0371-sum-of-two-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0191-number-of-1-bits) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
