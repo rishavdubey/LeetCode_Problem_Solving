@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0371-sum-of-two-integers) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String Matching
@@ -74,4 +75,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0009-palindrome-number](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0009-palindrome-number) |
 | [0371-sum-of-two-integers](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0371-sum-of-two-integers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
