@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0268-missing-number) |
+| [0322-coin-change](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0322-coin-change) |
 | [1524-string-matching-in-an-array](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/1524-string-matching-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0338-counting-bits) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sorting
@@ -98,4 +100,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0070-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
