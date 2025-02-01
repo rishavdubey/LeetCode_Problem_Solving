@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0424-longest-repeating-character-replacement) |
+| [1250-longest-common-subsequence](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/1250-longest-common-subsequence) |
 | [1524-string-matching-in-an-array](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0338-counting-bits) |
+| [1250-longest-common-subsequence](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sorting
 |  |
