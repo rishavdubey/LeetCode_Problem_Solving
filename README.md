@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [1524-string-matching-in-an-array](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/1524-string-matching-in-an-array) |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0049-group-anagrams) |
 | [1524-string-matching-in-an-array](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/1524-string-matching-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -38,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -63,5 +66,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
