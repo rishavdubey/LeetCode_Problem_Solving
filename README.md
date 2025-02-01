@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [1524-string-matching-in-an-array](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Bit Manipulation
 |  |
@@ -49,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Dynamic Programming
