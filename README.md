@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0371-sum-of-two-integers) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String Matching
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0338-counting-bits) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sorting
 |  |
