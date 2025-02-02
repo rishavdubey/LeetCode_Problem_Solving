@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0049-group-anagrams) |
+| [0133-clone-graph](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0133-clone-graph) |
 | [0242-valid-anagram](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0424-longest-repeating-character-replacement) |
@@ -108,5 +109,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0133-clone-graph) |
 | [0322-coin-change](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0322-coin-change) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0133-clone-graph) |
+## Graph
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
