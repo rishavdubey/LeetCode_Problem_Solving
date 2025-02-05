@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0300-longest-increasing-subsequence) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0300-longest-increasing-subsequence) |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0191-number-of-1-bits) |
 ## Binary Search
