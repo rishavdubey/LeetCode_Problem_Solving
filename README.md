@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0053-maximum-subarray) |
@@ -128,4 +129,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0133-clone-graph) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rishavdubey/LeetCode_Problem_Solving/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
